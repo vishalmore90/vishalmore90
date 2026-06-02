@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Decentralized+Future+%F0%9F%94%97;Hyperledger+Fabric+%7C+IPFS+%7C+Node.js;Next.js+%7C+Blockchain+%7C+Web3;From+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 <br/>
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-more-1a15b538b)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalmore90)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vishalmore901)
-[![Profile Views](https://komarev.com/ghpvc/?username=vishalmore90&style=for-the-badge&color=0e75b6)](https://github.com/vishalmore90)
- 
 </div>
 ---
  
