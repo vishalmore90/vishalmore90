@@ -76,21 +76,7 @@ A production-grade decentralized EHR system** built for privacy, security, and i
 ![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
  
 </div>
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalmore90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d9ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmore90&layout=compact&langs_count=8&theme=tokyonight&border_color=00d9ff"/>
-</div>
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishalmore90&theme=tokyonight&border=00D9FF&ring=00D9FF&fire=FF6B6B)](https://git.io/streak-stats)
- 
-</div>
----
 
- 
 ## 🤝 Let's Connect
  
 <div align="center">
