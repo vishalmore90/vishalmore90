@@ -94,24 +94,7 @@ A production-grade decentralized EHR system** built for privacy, security, and i
  
 </div>
 ---
- 
-## 🏆 GitHub Achievements
- 
-<div align="center">
-![Pair Extraordinaire](https://img.shields.io/badge/🥇_Pair_Extraordinaire-gold?style=for-the-badge)
-![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-0075ca?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/💥_YOLO-e4405f?style=for-the-badge)
- 
-</div>
----
- 
-## 📌 Activity Graph
- 
-<div align="center">
-[![Vishal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalmore90&theme=tokyo-night&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/vishalmore90)
- 
-</div>
----
+
  
 ## 🤝 Let's Connect
  
