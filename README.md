@@ -36,17 +36,7 @@ const vishal = {
 <div align="center">
 ### 🏥 Electronic Health Record — Blockchain Based Platform
  
-[![EHR Repo](https://github-readme-stats.vercel.app/api/pin/?username=vishalmore90&repo=Electronic-Health-Record-Blockchain-Based-System&theme=tokyonight&border_color=00d9ff)](https://github.com/vishalmore90/Electronic-Health-Record-Blockchain-Based-System)
-
-<!-- GitHub stats — count_private fixes the 0 problem -->
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehachaursia&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="github stats"/>
-</p>
-
-<!-- Streak stats — fixed domain (herokuapp is dead) -->
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=snehachaursia&theme=tokyonight" alt="streak stats"/>
-</p>
+[![EHR Repo](https://github-readme-stats.vercel.app/api/pin/?username=vishalmore90&repo=Electronic-Health-Record-Blockchain-Based-System&theme=tokyonight&border_color=00d9ff)](https://github.com/vishalmore90/Electronic-Health-Record-Blockchain-Based-Syste
 
 </div>
 A production-grade decentralized EHR system** built for privacy, security, and interoperability across hospitals, doctors, patients, and insurers.
