@@ -29,6 +29,7 @@ const vishal = {
   funFact:     "I believe blockchain can revolutionize healthcare 🏥🔗",
 };
 
+</div>
 ## 🤝 Let's Connect
  
 <div align="center">
