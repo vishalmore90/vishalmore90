@@ -28,55 +28,6 @@ const vishal = {
   currentlyLearning: "Advanced Hyperledger Fabric & Web3 patterns",
   funFact:     "I believe blockchain can revolutionize healthcare 🏥🔗",
 };
-```
- 
----
- 
-## 🚀 Featured Project
- 
-<div align="center">
-### 🏥 Electronic Health Record — Blockchain Based Platform
- 
-[![EHR Repo](https://github-readme-stats.vercel.app/api/pin/?username=vishalmore90&repo=Electronic-Health-Record-Blockchain-Based-System&theme=tokyonight&border_color=00d9ff)](https://github.com/vishalmore90/Electronic-Health-Record-Blockchain-Based-Syste
-
-</div>
-A production-grade decentralized EHR system** built for privacy, security, and interoperability across hospitals, doctors, patients, and insurers.
- 
-| Actor | Role |
-|---|---|
-| 🏛️ Government | Network Owner |
-| 🏥 Hospital | Network Organization |
-| 👨‍⚕️ Doctor | Practicing Physician / Peer |
-| 🧪 Diagnostics | Org / Peer of Hospital |
-| 💊 Pharmacies | Org / Peer of Hospital |
-| 🔬 Researchers | R&D Organization |
-| 🏦 Insurance | Insurance Company |
-| 🧑 Patient | End User |
- 
-**Stack:** `Hyperledger Fabric` · `Node.js SDK` · `IPFS` · `Next.js` · `CouchDB` · `Docker`
- 
----
- 
-## 🛠️ Tech Stack
- 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
- 
-</div>
 
 ## 🤝 Let's Connect
  
