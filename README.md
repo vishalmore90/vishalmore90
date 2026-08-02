@@ -17,5 +17,5 @@
 | [AI-Kubernetes-Upgrader](https://github.com/vishalmore90/AI-Kubernetes-Upgrader) | Automated ETL pipeline  | Python, SQLModel, pandas, pdfplumber | In progress |
 | [Article-WebScraping](https://github.com/vishalmore90/Article-WebScraping.git) | Offline quiz generator from PDFs, DOCX, and PPTX using local AI. No API keys needed | Python, Hugging Face Transformers | In progress |
 | [Gemini-ChatBot](https://github.com/vishalmore90/Gemini-ChatBot.git) | Full-stack volunteer-NGO platform — Google Solution Challenge 2025 | Angular, Firebase | In progress |
-| [Portfolio]( ) | Personal portfolio site | JavaScript | Live at [rhiya.vercel.app](https://rhiya.vercel.app) |
+| [Portfolio]( ) | Personal portfolio site | JavaScript | Live at [rhiya.vercel.app](https://vishal.vercel.app) |
 
