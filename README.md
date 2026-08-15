@@ -12,7 +12,7 @@
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [**PodWhisper**](https://github.com/vishalmore90/PodWhisper) | Autonomic K8s failure-analysis agent (MAPE-K loop) with RAG-augmented root-cause diagnosis. Achieved **88% MTTR reduction** (6.8s vs 60s+). Active research paper. | `Go` `Python` `FastAPI` `ChromaDB` `Gemini 2.5 Flash` `Kubernetes` `Prometheus` | 🟡 Active Research |
+| [**PodWhisper**](https://github.com/vishalmore90/PodWhisper) | Autonomic K8s failure-analysis agent (MAPE-K loop) with RAG-augmented root-cause diagnosis. Achieved **88% MTTR reduction** (6.8s vs 60s+). Active research paper. | `Go` `Python` `FastAPI` `ChromaDB` `Gemini 2.5 Flash` `Kubernetes` `Prometheus` | 🟢 Complete |
 | [**DevOps-Kubernetes-AI-Agent**](https://github.com/vishalmore90/DevOps-Kubernetes-AI-Agent) | AI-powered SRE platform that auto-investigates K8s cluster failures, correlates logs & events, and delivers LLM-based root cause fixes with confidence scoring. | `Python` `FastAPI` `React` `Socket.IO` `OpenRouter` `Docker Compose` | 🟢 Complete |
 | [**AI-Kubernetes-Upgrader**](https://github.com/vishalmore90/AI-Kubernetes-Upgrader) | Evidence-based K8s upgrade risk assessment engine. Runs 17-step analysis and generates a Readiness Score (0–100) with APPROVED / CONDITIONAL / NOT RECOMMENDED verdict. | `Python` `Flask` `kubectl` `pytest` | 🟢 Complete |
 | [**Article-WebScraping**](https://github.com/vishalmore90/Article-WebScraping) | Scrapes technology articles from The Guardian API, extracts titles & content, and saves each article to individual text files. | `Python` `The Guardian API` | 🟢 Complete |
