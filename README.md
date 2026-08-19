@@ -17,6 +17,4 @@
 | [**AI-Kubernetes-Upgrader**](https://github.com/vishalmore90/AI-Kubernetes-Upgrader) | Evidence-based K8s upgrade risk assessment engine. Runs 17-step analysis and generates a Readiness Score (0–100) with APPROVED / CONDITIONAL / NOT RECOMMENDED verdict. | `Python` `Flask` `kubectl` `pytest` | 🟢 Complete |
 | [**Article-WebScraping**](https://github.com/vishalmore90/Article-WebScraping) | Scrapes technology articles from The Guardian API, extracts titles & content, and saves each article to individual text files. | `Python` `The Guardian API` | 🟢 Complete |
 | [**Gemini-ChatBot**](https://github.com/vishalmore90/Gemini-ChatBot) | Streamlit web app for real-time conversational interactions with Google's Gemini-Pro model. | `Python` `Streamlit` `Gemini-Pro` `Google AI API` | 🟢 Complete |
-| [**Portfolio**](https://vishal.vercel.app) | Personal portfolio showcasing projects, skills, and experience as an SRE & AI/ML Engineer. | `Next.js` `Vercel` | 🟢 Live |
-
 ---
