@@ -1,4 +1,4 @@
-## Student Developer 
+## Developer 
 
 ## About
 
