@@ -6,8 +6,6 @@
 - Focused on **Cloud & DevOps** — container orchestration, distributed systems, and infrastructure that doesn't fall over
 - Working towards building production-grade software while still in college — messy process, learning a lot
 
----
-
 ## 🚀 Projects
 
 | Project | Description | Stack | Status |
