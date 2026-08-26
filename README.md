@@ -1,12 +1,9 @@
 ## Developer 
-
 ## About
 - I build things that need to be fast, reliable, and scalable. Currently going deep on **Kubernetes** and **cloud-native infrastructure**, while keeping a strong foundation in Go and Python for backend systems.
 - Focused on **Cloud & DevOps** — container orchestration, distributed systems, and infrastructure that doesn't fall over
 - Working towards building production-grade software while still in college — messy process, learning a lot
-
 ## 🚀 Projects
-
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [**PodWhisper**](https://github.com/vishalmore90/PodWhisper) | Autonomic K8s failure-analysis agent (MAPE-K loop) with RAG-augmented root-cause diagnosis. Achieved **88% MTTR reduction** (6.8s vs 60s+). Active research paper. | `Go` `Python` `FastAPI` `ChromaDB` `Gemini 2.5 Flash` `Kubernetes` `Prometheus` | 🟢 Complete |
