@@ -1,4 +1,4 @@
-## Sttudent Developer 
+## Student Developer 
 ## About
 - I build things that need to be fast, reliable, and scalable. Currently going deep on **Kubernetes** and **cloud-native infrastructure**, while keeping a strong foundation in Go and Python for backend systems.
 - Focused on **Cloud & DevOps** — container orchestration, distributed systems, and infrastructure that doesn't fall over
