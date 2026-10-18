@@ -1,12 +1,10 @@
 ## Backend Developer 
 ## About
-• I build resilient, high-throughput backend ecosystems that power critical business logic. Currently diving deep into reactive programming, event-driven architectures, and optimizing the JVM for cloud environments.
+- I build resilient, high-throughput backend ecosystems that power critical business logic. Currently diving deep into reactive programming, event-driven architectures, and optimizing the JVM for cloud environments.
+- Focused on Performance & Scalability — distributed tracing, microservices orchestration, and writing clean, maintainable code that scales to millions of requests.
+- Working toward mastering production-grade system design while navigating college — managing thread pools, hunting memory leaks, and loving every bit of the chaos.
 
-• Focused on Performance & Scalability — distributed tracing, microservices orchestration, and writing clean, maintainable code that scales to millions of requests.
-
-• Working toward mastering production-grade system design while navigating college — managing thread pools, hunting memory leaks, and loving every bit of the chaos.
-
-## 🚀 Projects
+## Projects
 | Project | Description | Stack |
 |---|---|---|
 | [**Task-Manager**](https://github.com/vishalmore90/Task-Manager) |High-performance task management web application built with React 18, Vite, and Tailwind CSS. Features client-side cryptographic hashing, isolated user partitions, and zero-latency state synchronization.| `context-api` `productivity` `react` `task-manager` `vite` |
