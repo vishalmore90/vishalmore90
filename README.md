@@ -3,11 +3,8 @@
 ### About
 
 - I'm passionate about building reliable, scalable, and resilient infrastructure that powers modern software systems. Currently exploring Site Reliability Engineering (SRE), DevOps practices, cloud-native technologies, and infrastructure automation.
-
 - **Focused on Reliability & Automation** — CI/CD pipelines, cloud infrastructure, containerization, Kubernetes, monitoring, observability, incident management, and Infrastructure as Code (IaC).
-
 - I'm working toward mastering production-grade DevOps and SRE practices while navigating college, learning to automate repetitive tasks, troubleshoot complex system failures, improve system reliability, and build efficient deployment workflows. I enjoy turning infrastructure challenges into automated, reliable, and maintainable solutions while continuously learning and contributing to open-source projects.
-
 
 ## Projects
 | Project | Description | Stack |
