@@ -1,4 +1,4 @@
-## SRE & DevOps Engineer
+## Software & DevOps Engineer
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/vishalmore90/badge.svg)](https://hub.xerj.org/contributors/vishalmore90)
 ### About
 
